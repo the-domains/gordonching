@@ -1,0 +1,14 @@
+layout_spectrum: 0.8349206866696477
+typography_spectrum: 0.784314498770982
+color:
+  brandStrength: 0.19038396258838475
+  lightness: 0.837694360408932
+  saturation: 0.6438304947223514
+  rhythmicContrast: 0.4735705847851932
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: gordonching
